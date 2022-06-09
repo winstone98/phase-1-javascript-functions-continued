@@ -20,6 +20,6 @@ function wrapAdjective(asterisk='*'){
     }
 
 }
-const wrapper=recover()
-console.log(wrapper)
+// const wrapper=wrapAdjective()
+// console.log(wrapper)
 
